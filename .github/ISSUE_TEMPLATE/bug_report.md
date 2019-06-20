@@ -12,7 +12,7 @@ template_path=.github/ISSUE_TEMPLATE/bug_report.md
 -->
 
 <!--
-Thank you for contributing to the Firebase community!
+
 
 Think you found a bug?
 =======================
