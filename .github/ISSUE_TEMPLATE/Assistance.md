@@ -15,6 +15,9 @@ template_path=.github/ISSUE_TEMPLATE/Assistance.md
 ## For any help needed regarding coding related stuff or programming in general. Can also be on coding doubts
 
 ### Guidelines to be followed : 
+
+[Google Style Guide for Programming](http://google.github.io/styleguide/)
+
 ```
 1. Google Style Guide.
 2. SOLID Priciples.

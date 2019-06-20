@@ -13,7 +13,6 @@ template_path=.github/ISSUE_TEMPLATE/bug_report.md
 
 <!--
 
-
 Think you found a bug?
 =======================
 Yeah, we're definitely not perfect! Please tell us more about the issue faced.

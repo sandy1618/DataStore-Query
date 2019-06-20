@@ -11,6 +11,9 @@ validate_template=true
 template_path=.github/PULL_REQUEST_TEMPLATE.md
 -->
 
+### [REQUIRED] Platform and Packages : 
+<!-- Windows, Mac OS, Linux. New packages (if any) -->
+
 
 ### [Required] Feature Changed : 
 <!-- What's new? -->

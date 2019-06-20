@@ -1,6 +1,6 @@
 ---
 name: ⚠️ Feature Request
-about: Tell us more about what you need. 
+about: Tell us more about what feature you need. 
 title: ''
 labels: enhancement
 assignees: ''
@@ -15,6 +15,8 @@ template_path=.github/ISSUE_TEMPLATE/feature_request.md
 ### [REQUIRED] Feature Name : 
 
 
+### [REQUIRED] Platform and Packages : 
+<!-- Windows, Mac OS, Linux. Packages : Node, Express etc. -->
 
 
 ### [REQUIRED] Feature Type : 

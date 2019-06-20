@@ -1,8 +1,8 @@
 ---
 name: ⚠️ Version Incompatibility
-about: Create a report to help us improve
+about: Create a report to help us improve on version issues. 
 title: ''
-labels: help-wanted
+labels: help wanted
 assignees: ''
 ---
 
@@ -10,6 +10,10 @@ assignees: ''
 validate_template=true
 template_path=.github/ISSUE_TEMPLATE/version_issues.md
 -->
+
+### [REQUIRED] Platform and Packages : 
+<!-- Windows, Mac OS, Linux. Packages : Node, Express etc. -->
+
 
 ### [REQUIRED] Which version of the package caused an issue ? 
 
