@@ -23,3 +23,4 @@ template_path=.github/ISSUE_TEMPLATE/version_issues.md
 
 
 
+### Please assign task and mention project name. See the right side bar.

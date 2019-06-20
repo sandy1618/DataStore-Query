@@ -23,18 +23,21 @@ template_path=.github/ISSUE_TEMPLATE/feature_request.md
 
 
 ### [REQUIRED] Feature Description : 
+<!-- Describe the feature you need. -->
 
 
-
-### [REQUIRED] Eaxmples : 
-
+### [REQUIRED] Examples : 
+<!-- Link to websites. -->
 
 
 
 ### [REQUIRED] Why need this feature ? 
-
+<!-- User Requirement, Business need, developer need.-->
 
 
 
 
 ### [REQUIRED] Final Comments
+<!-- -->
+
+### Please assign task and mention project name. See the right side bar.

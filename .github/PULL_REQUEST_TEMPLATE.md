@@ -13,11 +13,12 @@ template_path=.github/PULL_REQUEST_TEMPLATE.md
 
 
 ### [Required] Feature Changed : 
+<!-- What's new? -->
 
 
 
 ### [Required] Critical Files Affected : 
-
+<!-- What files are getting affected? New? app.js, index.ejs -->
 
 
 
@@ -26,3 +27,4 @@ template_path=.github/PULL_REQUEST_TEMPLATE.md
 
 
 ### [Required] Final Comments
+
