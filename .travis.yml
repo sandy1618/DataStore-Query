@@ -1,0 +1,13 @@
+dist: trusty
+sudo: required
+language: node_js
+node_js:
+  - "10"
+os:
+  - linux
+install:
+  - npm update
+- npm install
+
+notifications:
+slack: projectx-oxo5913:i9xLM1lwlR3HssZI3Uvh2lCa
