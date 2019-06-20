@@ -1,15 +1,14 @@
----
-name: ⚠️ Pull Request
-about: Create a pull request to get your code merged.
-title: ''
-labels: enhancement
-assignees: ''
----
-
 <!-- DO NOT DELETE 
 validate_template=true
 template_path=.github/PULL_REQUEST_TEMPLATE.md
 -->
+
+``` Pull Request on Pingman-io. ```
+
+[Projects Issues](https://github.com/orgs/pingman-io/projects)
+
+### Type : <!-- Please mention type : WIP, Completed, NoFix, HotFix, Patch -->
+
 
 ### [REQUIRED] Platform and Packages : 
 <!-- Windows, Mac OS, Linux. New packages (if any) -->
@@ -25,9 +24,15 @@ template_path=.github/PULL_REQUEST_TEMPLATE.md
 
 
 
-### [Required] Description 
+### [Required] Description :
 <!-- What does your code do ? -->
 
 
-### [Required] Final Comments
+### [Required] Final Comments :
+
+
+### Please add reviewer and project details on the right hand side tab (if any !!)
+
+
+
 
