@@ -2,7 +2,7 @@
 name: 💡 Idea 
 about: Share an Idea. 
 title: '[Idea] : '
-labels: help wanted
+labels: help wanted, IDEA
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
 name: 💡 Project Item
-about: Use it to add a general project item for related project. It will be tracked under Projects
+about: Add a general project item for related project for tracking.
 title: '[Project Item]'
-labels: enhancement, help wanted
+labels: enhancement, Work-In-Progress, Projects
 assignees: ''
 ---
 

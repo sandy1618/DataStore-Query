@@ -2,7 +2,7 @@
 name: ⚠️ Bug report
 about: Create a report to help us improve
 title: '[Bug] :'
-labels: bug, help wanted
+labels: bug, Work-In-Progress, help wanted
 assignees: ''
 
 ---
@@ -22,13 +22,13 @@ Yeah, we're definitely not perfect! Please tell us more about the issue faced. -
 <!-- What version of the Node.js, npm or pack-man are you using? -->
 
 <!-- Output of `node -v` -->
-**Node.js:**
+**Node.js :**
 
 <!-- Output of `npm -v` -->
 **npm :**
 
 <!-- e.g. macOS, Windows, Ubuntu -->
-**Platform:**
+**Platform :**
 
 ### [REQUIRED] Test case
 <!-- Provide a minimal, complete, and verifiable example (http://stackoverflow.com/help/mcve) -->
