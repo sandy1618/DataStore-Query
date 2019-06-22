@@ -1,7 +1,7 @@
 ---
 name: ⚠️ Version Incompatibility
 about: Create a report to help us improve on version issues. 
-title: ''
+title: '[Version] : '
 labels: help wanted
 assignees: ''
 ---
